@@ -15,4 +15,4 @@ A responsive Kanban Board built using HTML, CSS, and JavaScript.
 - JavaScript (ES6)
 
 ## Live Demo
-https://anmolnegi09.github.io/Kanban-Board/
+https://study-kanban.netlify.app/
